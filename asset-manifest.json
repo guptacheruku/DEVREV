@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DEVREV/static/css/main.9fee7da9.css",
+    "main.js": "/DEVREV/static/js/main.66bfcfec.js",
+    "static/js/787.c9d4cc8c.chunk.js": "/DEVREV/static/js/787.c9d4cc8c.chunk.js",
+    "static/media/libIMG.jpg": "/DEVREV/static/media/libIMG.0628b5a1834055b97055.jpg",
+    "index.html": "/DEVREV/index.html",
+    "main.9fee7da9.css.map": "/DEVREV/static/css/main.9fee7da9.css.map",
+    "main.66bfcfec.js.map": "/DEVREV/static/js/main.66bfcfec.js.map",
+    "787.c9d4cc8c.chunk.js.map": "/DEVREV/static/js/787.c9d4cc8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fee7da9.css",
+    "static/js/main.66bfcfec.js"
+  ]
+}
