@@ -1,0 +1,116 @@
+.book-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .book-container {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    min-width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .book-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .book-info {
+    font-size: 14px;
+    margin-bottom: 3px;
+  }
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .search-bar input {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .search-bar button {
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none !important;
+    width: auto;
+    height: 5vh;
+  }
+  .search-bar button:hover{
+    background-color: black;
+    color: white;
+  }
+.button-btn{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none !important;
+    width: auto;
+    height: 5vh;
+}
+
+.button-btn:hover {
+    background-color: black;
+    color: white;
+}
+.sort-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .sort-container label {
+    margin-right: 10px;
+    color: #333;
+  }
+  
+  .sort-bar {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  .sort-select {
+    color: #333;
+  }
+  
+  .sort-select:hover {
+    background-color: #eaeaea;
+  }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .page-numbers-container {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page-number {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .page-number.active {
+    font-weight: bold;
+  }
+  
+  .page-number:hover {
+    text-decoration: underline;
+  }
+  
